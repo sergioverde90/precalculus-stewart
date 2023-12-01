@@ -51,13 +51,13 @@ Solving the quadratic equation we have $y=\dfrac{1}{2}$ or $y=-1$. Take the posi
 
 $$
 \begin{equation}
-\begin{align*}
+\begin{aligned}
 x^2 + y^2 = 1 \\
 x^2 + (\dfrac{1}{2})^2 = 1 \\
 x^2 = 1 - \dfrac{1}{4} \\
 x^2 = \dfrac{3}{4} \\
 x = \dfrac{\sqrt{3}}{2}
-\end{align*}
+\end{aligned}
 \end{equation}
 $$
 
