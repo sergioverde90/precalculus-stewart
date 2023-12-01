@@ -10,10 +10,10 @@ We have $P(x,y)$ and $R(0,1)$ so, using the distance formula, we have:
 
 $$
 \begin{equation}
-\begin{align*}
+\begin{aligned}
 & Distance(PR) = \sqrt{(x-0)^2 + (y-1)^2} \\ 
 & = \sqrt{x^2 + (y-1)^2}
-\end{align*}
+\end{aligned}
 \end{equation}
 $$
 
@@ -21,12 +21,12 @@ Same for $Q(x, -y)$:
 
 $$
 \begin{equation}
-\begin{align*}
+\begin{aligned}
 & Distance(PQ) = \sqrt{(x-x)^2 + (y-(-y))^2} \\ 
 &  = \sqrt{0^2 + (2y)^2} \\
 & = \sqrt{(2y)^2} \\ 
 & = 2y
-\end{align*}
+\end{aligned}
 \end{equation}
 $$ 
 
@@ -36,14 +36,14 @@ This is where the equation comes from. Now, in the section b), the equation is s
 
 $$
 \begin{equation}
-\begin{align*}
+\begin{aligned}
 & 2y = \sqrt{x^2 + (y-1)^2} \\
 & 4y^2 = x^2 + y^2 +2y -1  \\
 & 4y^2 = 1 -2y -1 \\
 & 4y^2 = 2-2y \\
 & 4y^2 + 2y -2 = 0 \\
 & 2y^2 + y -1 = 0 \\
-\end{align*}
+\end{aligned}
 \end{equation}
 $$
 
