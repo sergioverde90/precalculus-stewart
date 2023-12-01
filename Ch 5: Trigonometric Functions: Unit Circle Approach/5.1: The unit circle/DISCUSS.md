@@ -4,7 +4,9 @@ Suppose the terminal point determied by $t = \dfrac{\pi}{6}$ is $P(x,y)$, the po
 equation using the fact that $x^2 + y^2 = 1$. Solve the simplified equation to find $P(x,y)$. 
 
 #### a) Why are the distances $PQ$ and $PR$ the same?
-The distances are the same becase they form the same angle, so PR and PQ form a congruent triangle. Congruent triangles are explained in the Appendix A: Geometry review.
+If a line is drawn between $PQR$ an isosceles triangle appears. Drawing a new line from $P$ to the middle point between $R$ and $Q$ (that middle point can be calculated using the midpoint formula, resulting in $(\dfrac{\sqrt(3)}{4},\dfrac{1}{4})$ the isosceles triangle now forms two right triangles. The distances are the same becase both right triangles form the same angle from $RP$ and $QP$, so PR and PQ form a congruent triangle. Congruent triangles are explained in the Appendix A: Geometry review.
+
+![5.1-61 - circle unit](./5.1-61-circle%20unit.png)
 
 We have $P(x,y)$ and $R(0,1)$ so, using the distance formula, we have:
 
